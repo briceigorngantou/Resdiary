@@ -1,0 +1,30 @@
+.sidebar {
+  margin: 10px;
+  margin-top: 0;
+  border-right: 2px solid rgb(240, 239, 239);
+  height: 45em;
+}
+.logo {
+  border-radius: 10px;
+  margin: 20px;
+  cursor: pointer;
+}
+.section1 {
+  display: grid;
+}
+.section2 {
+  margin-top: 10%;
+  display: grid;
+}
+.section3 {
+  position: absolute;
+  bottom: 0%;
+  display: grid;
+}
+.profile {
+  display: flex;
+  justify-content: justify;
+  align-items: center;
+  margin: 5px;
+  cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.app-bars {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.app-sidebar {
+  width: 15%;
+}
+.app-body {
+  width: 80%;
+}

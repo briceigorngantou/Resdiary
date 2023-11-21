@@ -1,0 +1,12 @@
+.navbar-brand {
+  cursor: pointer;
+}
+.navbar-left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 2%;
+}
+.navbar{
+  width: 100%;
+}

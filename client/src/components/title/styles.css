@@ -1,0 +1,11 @@
+.container {
+  text-align: left;
+}
+.title {
+  font-size: 18px;
+  font-weight: bold;
+}
+.subtitle {
+  font-size: 16px;
+  font-weight: 700;
+}
